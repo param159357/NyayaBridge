@@ -1,6 +1,6 @@
 # ⚖️ NyayaBridge: AI-Powered Legal Assistant Platform
 
-**NyayaBridge** is a comprehensive legal tech platform designed to bridge the gap between citizens and the justice system. Built for the Hackathon, it utilizes advanced AI (Google Gemini) to simplify legal intake, automate document scanning, and provide emergency SOS features.
+**NyayaBridge** is a comprehensive legal tech platform designed to bridge the gap between citizens and the justice system. Built for the Hackathon, it utilizes advanced AI to simplify legal intake, automate document scanning, and provide emergency SOS features.
 
 ---
 
